@@ -1,0 +1,22 @@
+.ContactList {
+  width: 300px;
+  padding: 10px;
+  margin: 0;
+}
+.item {
+  display: flex;
+  justify-content: space-between;
+}
+.btn {
+  margin-top: 10px;
+  margin-left: 15px;
+  background: rgb(72, 153, 219);
+  color: white;
+  text-transform: uppercase;
+  overflow: hidden;
+  border-radius: 4px;
+  cursor: pointer;
+  border: none;
+  font-size: 10px;
+  font-weight: 700;
+}

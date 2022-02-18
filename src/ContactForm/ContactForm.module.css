@@ -1,0 +1,31 @@
+.Contacts {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width: 300px;
+  border: 1px solid black;
+  padding: 10px;
+  margin-left: 10px;
+}
+
+.label {
+  display: block;
+  margin-bottom: 20px;
+}
+.input {
+  margin-top: 10px;
+  width: 290px;
+}
+.btn {
+  margin-top: 10px;
+  width: 130px;
+  padding: 10px;
+  background: steelblue;
+  color: white;
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 5px;
+  cursor: pointer;
+  border: none;
+}
